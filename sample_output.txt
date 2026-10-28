@@ -1,0 +1,24 @@
+=== Adding Participants ===
+Participant P0001 added.
+Participant P0002 added.
+Participant P0003 added.
+
+=== Participants ===
+ID: P0001 | Age group: child | Region: Western Area
+ID: P0002 | Age group: adult | Region: Northern Province
+ID: P0003 | Age group: senior | Region: Eastern Province
+Total created: 3
+
+=== Recording Doses ===
+P0001 / MMR: Dose recorded.
+P0001 / MMR: Dose recorded.
+P0002 / HEPATITIS_B: Dose recorded.
+P0003 / TETANUS: Dose recorded
+
+=== Vaccination Records ===
+P0001 | MMR | 1/2 doses | IN PROGRESS| Next does due 2026-03-07
+P0002 | HEPATITIS_B | 1/3 doses | IN PROGRESS | Next dose due: 2026-02-09
+P0003 | TETANUS | 1/1 doses | COMPLETE
+
+=== Summary ===
+Participants: 3 | Records: 3 | Fully vaccinated: 1
